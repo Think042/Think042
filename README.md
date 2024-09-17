@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Think042/Think042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **software engineer** with a love for coding and problem solving. I enjoy diving into projects that involve **Node.js, NestJS, TypeScript**, and learning new things every day.
 
-Here are some ideas to get you started:
+## 🌱 Currently Exploring:
+- Deepening my knowledge of **machine learning** and **deep learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tools & Technologies:
+- **Languages:** TypeScript, JavaScript, Python
+- **Frameworks:** NestJS, Express.js
+- **Other:** Git, Docker, SQL
+
+## 📚 Latest Interests:
+- Consumer hardware 🖥️
+- **AI** in finance
+
+## ⚽ Outside of coding:
+When I'm not coding, you can catch me reading, playing soccer, or keeping up with the latest tech trends.
+
+---
+"Stay curious, keep learning, and enjoy the journey!"
